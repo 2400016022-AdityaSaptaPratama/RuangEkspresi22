@@ -22,7 +22,7 @@ import logo4 from "../assets/images/logo4.png";
 
 
 import arahkiri from "../assets/images/arahkiri.png";
-import arahKanan from "../assets/images/arahkanan.png";
+import arahkanan from "../assets/images/arahkanan.png";
 import arahAtas from "../assets/images/arahAtas.png";
 
 // TEAM PHOTO (Contoh)
@@ -357,7 +357,7 @@ export default function HomePage() {
             onClick={nextImage}
             className="absolute right-[-60px] top-1/2 -translate-y-1/2"
           >
-            <img src={arahKanan} className="h-10 hover:scale-125 transition cursor-pointer" />
+            <img src={arahkanan} className="h-10 hover:scale-125 transition cursor-pointer" />
           </button>
         </div>
 
