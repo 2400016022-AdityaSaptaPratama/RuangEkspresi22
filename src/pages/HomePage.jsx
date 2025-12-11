@@ -21,8 +21,8 @@ import logo3 from "../assets/images/logo3.png";
 import logo4 from "../assets/images/logo4.png";
 
 
-import arahkiri from "../assets/images/arahkiri.png";
-import arahkanan from "../assets/images/arahkanan.png";
+import arahKiri from "../assets/images/arahkiri.png";
+import arahKanan from "../assets/images/arahkanan.png";
 import arahAtas from "../assets/images/arahAtas.png";
 
 // TEAM PHOTO (Contoh)
