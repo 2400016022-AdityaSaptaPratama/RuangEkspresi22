@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Untuk Chrome, Edge, Safari */
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}
+
+/* Untuk Firefox */
+.scrollbar-hidden {
+  scrollbar-width: none;
+}
