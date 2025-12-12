@@ -21,13 +21,12 @@ import logo3 from "../assets/images/logo3.png";
 import logo4 from "../assets/images/logo4.png";
 
 
-import arahKiri from "../assets/images/arahkiri.png";
-import arahKanan from "../assets/images/arahkanan.png";
+import arahkiri from "../assets/images/arahkiri.png";
+import arahkanan from "../assets/images/arahkanan.png";
 import arahAtas from "../assets/images/arahAtas.png";
 
 // TEAM PHOTO (Contoh)
 import fotobudi from "../assets/images/fotobudi.png";
-
 import ruangekspresi from "../assets/images/ruangekspresi.png";
 import lokasi from "../assets/images/lokasi.png";
 import pesan from "../assets/images/pesan.png";
